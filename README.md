@@ -67,10 +67,10 @@ A simple React-based UI that lets users explore a list of stores, filter them by
 git clone https://github.com/your-username/store-explorer.git
 cd store-explorer
 
-### 2. Install dependencies
+-- Install dependencies
 
 - npm install
 
-### 3. Start your backend
+-- Start your backend
 
 - npm run start
