@@ -71,6 +71,6 @@ cd store-explorer
 
 - npm install
 
--- Start your backend
+-- Start your Project
 
 - npm run start
